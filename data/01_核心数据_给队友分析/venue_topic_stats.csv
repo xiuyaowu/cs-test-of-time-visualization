@@ -1,0 +1,95 @@
+venue,topic_label,paper_count,avg_citation_count
+AAAI,Computer Vision,4,690.0
+AAAI,Data Mining / Web,3,713.0
+AAAI,Database / Systems,1,103.0
+AAAI,Fairness / Evaluation,2,414.0
+AAAI,Human-Computer Interaction,2,372.5
+AAAI,Machine Learning Theory,3,663.0
+AAAI,Natural Language Processing,3,557.0
+AAAI,Reinforcement Learning,1,881.0
+ACL,Natural Language Processing,1,542.0
+ACM MobiCom,Human-Computer Interaction,1,8135.0
+ACM SenSys,Reinforcement Learning,1,225.0
+CCR,Computer Vision,2,573.5
+CCR,Database / Systems,1,1494.0
+CCR,Human-Computer Interaction,1,390.0
+EMNLP,Natural Language Processing,2,2540.0
+FAST,Database / Systems,4,320.75
+FAST,Natural Language Processing,1,1224.0
+FAST,RAID,1,493.0
+FAST,Reinforcement Learning,1,792.0
+HPCA,Machine Learning Theory,1,297.0
+ICCV,Computer Vision,23,3432.5652173913045
+ICCV,Machine Learning Theory,1,608.0
+ICDM,Computer Vision,2,912.5
+ICDM,Data Mining / Web,4,1700.0
+ICDM,Database / Systems,1,297.0
+ICDM,Machine Learning Theory,1,377.0
+ICML,Machine Learning Theory,1,457.0
+ICML,Natural Language Processing,1,6709.0
+ICSE,Computer Vision,2,225.0
+ICSE,Computer science,1,325.0
+ICSE,Data Mining / Web,8,452.625
+ICSE,Database / Systems,9,274.1111111111111
+ICSE,Human-Computer Interaction,3,415.0
+ICSE,Machine Learning Theory,2,137.0
+ICSE,Natural Language Processing,3,400.6666666666667
+ICSE,Real-Time / Embedded Systems,1,73.0
+IEEE Personal Communications,Database / Systems,1,2415.0
+IEEE Transactions on Information Theory,Machine Learning Theory,1,7857.0
+IMC,Data Mining / Web,1,3073.0
+KDD,Computer Vision,1,19133.0
+KDD,Data Mining / Web,2,2382.5
+KDD,Database / Systems,1,3592.0
+KDD,Natural Language Processing,1,1958.0
+NIPS,Machine Learning Theory,1,2663.0
+NSDI,Data Mining / Web,1,409.0
+NSDI,Database / Systems,5,858.0
+NSDI,Reinforcement Learning,1,1136.0
+OOPSLA,Computer Vision,1,1011.0
+OOPSLA,Data Mining / Web,3,979.6666666666666
+OOPSLA,Database / Systems,1,398.0
+OOPSLA,Fairness / Evaluation,1,1593.0
+OOPSLA,Machine Learning Theory,4,251.5
+OOPSLA,Metaprogramming,1,169.0
+OOPSLA,Natural Language Processing,1,175.0
+OOPSLA,Real-Time / Embedded Systems,1,523.0
+OOPSLA,Simplicity,1,909.0
+SIGCOMM,Computer Vision,2,376.5
+SIGCOMM,Computer network,1,2274.0
+SIGCOMM,Data Mining / Web,5,1188.0
+SIGCOMM,Database / Systems,10,2436.2
+SIGCOMM,Fairness / Evaluation,1,1095.0
+SIGCOMM,Implementation,1,89.0
+SIGCOMM,Machine Learning Theory,1,20.0
+SIGCOMM,Multicast,1,191.0
+SIGCOMM,Network topology,1,1277.0
+SIGCOMM,Path loss,1,1002.0
+SIGCOMM,Real-Time / Embedded Systems,3,946.3333333333334
+SIGCOMM,Reinforcement Learning,3,311.6666666666667
+SIGCOMM,Router,1,682.0
+SIGCOMM,Security / Privacy,2,469.0
+SIGIR,Citation,2,1255.5
+SIGIR,Cluster analysis,1,947.0
+SIGIR,Computer Vision,2,72.0
+SIGIR,Computer science,1,56.0
+SIGIR,Data Mining / Web,8,700.75
+SIGIR,Database / Systems,4,561.0
+SIGIR,Human-Computer Interaction,2,2571.5
+SIGIR,Machine Learning Theory,2,257.5
+SIGIR,Natural Language Processing,13,1240.076923076923
+SIGMOD,Computer Vision,2,841.0
+SIGMOD,Data Mining / Web,3,1527.3333333333333
+SIGMOD,Database / Systems,18,1387.6666666666667
+SIGMOD,Human-Computer Interaction,1,926.0
+Sixth Data Comm.Symposium,Computer science,1,22.0
+USENIX Security,Data Mining / Web,1,287.0
+USENIX Security,Human-Computer Interaction,2,2009.5
+USENIX Security,Reinforcement Learning,1,167.0
+USENIX Security,Security / Privacy,2,1067.0
+VLDB,Computer Vision,2,7320.5
+VLDB,Computer science,1,227.0
+VLDB,Data Mining / Web,6,2224.3333333333335
+VLDB,Database / Systems,11,276.0
+WMCSA,Human-Computer Interaction,1,10309.0
+WWW,Data Mining / Web,1,1186.0

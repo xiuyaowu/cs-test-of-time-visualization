@@ -1,0 +1,3318 @@
+[
+  {
+    "source": "https://openalex.org/I201448701",
+    "target": "https://openalex.org/I241749",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Computer network"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1298353152",
+    "target": "https://openalex.org/I4210099336",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1298353152",
+    "target": "https://openalex.org/I91045830",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099336",
+    "target": "https://openalex.org/I91045830",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210121786",
+    "target": "https://openalex.org/I66946132",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "IMC"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I63966007",
+    "target": "https://openalex.org/I74973139",
+    "weight": 2,
+    "years": [
+      2003,
+      2004
+    ],
+    "venues": [
+      "ICCV",
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Path loss"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I122411786",
+    "target": "https://openalex.org/I1283103587",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I123185442",
+    "target": "https://openalex.org/I1283103587",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I123185442",
+    "target": "https://openalex.org/I20089843",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I123185442",
+    "target": "https://openalex.org/I35364215",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I123185442",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1283103587",
+    "target": "https://openalex.org/I20089843",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1283103587",
+    "target": "https://openalex.org/I35364215",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1283103587",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I20089843",
+    "target": "https://openalex.org/I35364215",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I20089843",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I35364215",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1297971548",
+    "target": "https://openalex.org/I26653445",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I1331384533",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I4210099593",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I4210104430",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I4210121838",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I899635006",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I4210099593",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I4210104430",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I4210121838",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I899635006",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099593",
+    "target": "https://openalex.org/I4210104430",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099593",
+    "target": "https://openalex.org/I4210121838",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099593",
+    "target": "https://openalex.org/I899635006",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210104430",
+    "target": "https://openalex.org/I4210121838",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210104430",
+    "target": "https://openalex.org/I899635006",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210121838",
+    "target": "https://openalex.org/I899635006",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1174212",
+    "target": "https://openalex.org/I2801204180",
+    "weight": 3,
+    "years": [
+      1988,
+      2002
+    ],
+    "venues": [
+      "ICSE",
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Data Mining / Web",
+      "Human-Computer Interaction",
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1174212",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2801204180",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I185261750",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      1999
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1297971548",
+    "target": "https://openalex.org/I95457486",
+    "weight": 4,
+    "years": [
+      1991,
+      1998,
+      1999,
+      2004
+    ],
+    "venues": [
+      "NSDI",
+      "SIGCOMM",
+      "SIGIR"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Data Mining / Web",
+      "Natural Language Processing",
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I176714629",
+    "target": "https://openalex.org/I35765314",
+    "weight": 1,
+    "years": [
+      1997
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I148283060",
+    "target": "https://openalex.org/I95457486",
+    "weight": 2,
+    "years": [
+      1996,
+      2005
+    ],
+    "venues": [
+      "OOPSLA",
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Natural Language Processing",
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I117965899",
+    "target": "https://openalex.org/I1331384533",
+    "weight": 1,
+    "years": [
+      1974
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I117965899",
+    "target": "https://openalex.org/I4210090841",
+    "weight": 1,
+    "years": [
+      1974
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I4210090841",
+    "weight": 1,
+    "years": [
+      1974
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1292974536",
+    "target": "https://openalex.org/I169540460",
+    "weight": 1,
+    "years": [
+      1984
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1174212",
+    "target": "https://openalex.org/I4210122731",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2801204180",
+    "target": "https://openalex.org/I4210122731",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "SIGCOMM"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I27837315",
+    "target": "https://openalex.org/I2801204180",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACL"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I27837315",
+    "target": "https://openalex.org/I78577930",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACL"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2801204180",
+    "target": "https://openalex.org/I78577930",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACL"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I197251160",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "EMNLP"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I205783295",
+    "target": "https://openalex.org/I4210085935",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "EMNLP"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1342911587",
+    "target": "https://openalex.org/I154570441",
+    "weight": 1,
+    "years": [
+      1999
+    ],
+    "venues": [
+      "WMCSA"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I170486558",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I186995768",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I4210099310",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I4210101778",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I4210146936",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I157485424",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I186995768",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I4210099310",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I4210101778",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I4210146936",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170486558",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I186995768",
+    "target": "https://openalex.org/I4210099310",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I186995768",
+    "target": "https://openalex.org/I4210101778",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I186995768",
+    "target": "https://openalex.org/I4210146936",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I186995768",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I186995768",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099310",
+    "target": "https://openalex.org/I4210101778",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099310",
+    "target": "https://openalex.org/I4210146936",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099310",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210099310",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210101778",
+    "target": "https://openalex.org/I4210146936",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210101778",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210101778",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210146936",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210146936",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I86519309",
+    "target": "https://openalex.org/I99043593",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I177725633",
+    "target": "https://openalex.org/I20121455",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1290206253",
+    "target": "https://openalex.org/I4210164937",
+    "weight": 2,
+    "years": [
+      2006,
+      2007
+    ],
+    "venues": [
+      "ICSE",
+      "SIGIR"
+    ],
+    "topics": [
+      "Data Mining / Web",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1290206253",
+    "target": "https://openalex.org/I4210110987",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1290206253",
+    "target": "https://openalex.org/I63966007",
+    "weight": 2,
+    "years": [
+      2005,
+      2007
+    ],
+    "venues": [
+      "ICSE",
+      "SIGIR"
+    ],
+    "topics": [
+      "Data Mining / Web",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210110987",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1743320",
+    "target": "https://openalex.org/I205783295",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1743320",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I205783295",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210134091",
+    "target": "https://openalex.org/I4210159778",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I27837315",
+    "target": "https://openalex.org/I98677209",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118118575",
+    "target": "https://openalex.org/I151746483",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I134446601",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I95457486",
+    "weight": 3,
+    "years": [
+      2003,
+      2004
+    ],
+    "venues": [
+      "NSDI",
+      "SIGMOD"
+    ],
+    "topics": [
+      "Data Mining / Web",
+      "Database / Systems",
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I134446601",
+    "target": "https://openalex.org/I95457486",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I204250578",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210148712",
+    "weight": 2,
+    "years": [
+      2001,
+      2002
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I204250578",
+    "target": "https://openalex.org/I4210148712",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I31419693",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210085935",
+    "weight": 2,
+    "years": [
+      1990,
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210113654",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I31419693",
+    "target": "https://openalex.org/I4210085935",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I31419693",
+    "target": "https://openalex.org/I4210113654",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I31419693",
+    "target": "https://openalex.org/I4210148712",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210085935",
+    "target": "https://openalex.org/I4210113654",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210085935",
+    "target": "https://openalex.org/I4210148712",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210113654",
+    "target": "https://openalex.org/I4210148712",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210085935",
+    "target": "https://openalex.org/I95457486",
+    "weight": 1,
+    "years": [
+      1997
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I124158823",
+    "target": "https://openalex.org/I1326498283",
+    "weight": 1,
+    "years": [
+      1994
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I135310074",
+    "target": "https://openalex.org/I66946132",
+    "weight": 1,
+    "years": [
+      1994
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I102322142",
+    "target": "https://openalex.org/I4210085935",
+    "weight": 1,
+    "years": [
+      1993
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I185261750",
+    "target": "https://openalex.org/I197251160",
+    "weight": 1,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I185261750",
+    "target": "https://openalex.org/I91950636",
+    "weight": 1,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I197251160",
+    "target": "https://openalex.org/I91950636",
+    "weight": 1,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210103385",
+    "weight": 1,
+    "years": [
+      1990
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210085935",
+    "target": "https://openalex.org/I4210103385",
+    "weight": 1,
+    "years": [
+      1990
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I177802217",
+    "target": "https://openalex.org/I59553526",
+    "weight": 1,
+    "years": [
+      1989
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I122411786",
+    "target": "https://openalex.org/I1343180700",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "NIPS"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I204250578",
+    "target": "https://openalex.org/I4210140791",
+    "weight": 1,
+    "years": [
+      1996
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I19894307",
+    "weight": 1,
+    "years": [
+      1994
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1294671590",
+    "target": "https://openalex.org/I4210101743",
+    "weight": 1,
+    "years": [
+      1994
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I19894307",
+    "target": "https://openalex.org/I4210101743",
+    "weight": 1,
+    "years": [
+      1994
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I18014758",
+    "target": "https://openalex.org/I185261750",
+    "weight": 2,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Fairness / Evaluation",
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I18014758",
+    "target": "https://openalex.org/I72090969",
+    "weight": 2,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Fairness / Evaluation",
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I185261750",
+    "target": "https://openalex.org/I72090969",
+    "weight": 2,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Fairness / Evaluation",
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1280536761",
+    "target": "https://openalex.org/I1297127228",
+    "weight": 1,
+    "years": [
+      1990
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1298353152",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      1987
+    ],
+    "venues": [
+      "AAAI"
+    ],
+    "topics": [
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I201448701",
+    "target": "https://openalex.org/I58610484",
+    "weight": 1,
+    "years": [
+      2008
+    ],
+    "venues": [
+      "ICML"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I201448701",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      2008
+    ],
+    "venues": [
+      "ICML"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I58610484",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      2008
+    ],
+    "venues": [
+      "ICML"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1326498283",
+    "target": "https://openalex.org/I154425047",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "ICML"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1283103587",
+    "target": "https://openalex.org/I1325784139",
+    "weight": 1,
+    "years": [
+      2008
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I111236770",
+    "target": "https://openalex.org/I4210112150",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I111236770",
+    "target": "https://openalex.org/I4210160447",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I111236770",
+    "target": "https://openalex.org/I84653119",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I111236770",
+    "target": "https://openalex.org/I98259816",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210112150",
+    "target": "https://openalex.org/I4210160447",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210112150",
+    "target": "https://openalex.org/I84653119",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210112150",
+    "target": "https://openalex.org/I98259816",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210160447",
+    "target": "https://openalex.org/I84653119",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210160447",
+    "target": "https://openalex.org/I98259816",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I84653119",
+    "target": "https://openalex.org/I98259816",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I161318765",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210114115",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I161318765",
+    "target": "https://openalex.org/I4210114115",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I72951846",
+    "target": "https://openalex.org/I79272384",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I125749732",
+    "target": "https://openalex.org/I176714629",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I125749732",
+    "target": "https://openalex.org/I40347166",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I176714629",
+    "target": "https://openalex.org/I40347166",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "SIGIR"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I173498003",
+    "target": "https://openalex.org/I97018004",
+    "weight": 2,
+    "years": [
+      1987,
+      1992
+    ],
+    "venues": [
+      "OOPSLA",
+      "SIGIR"
+    ],
+    "topics": [
+      "Cluster analysis",
+      "Simplicity"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2802123492",
+    "target": "https://openalex.org/I40120149",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I40120149",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I40120149",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I154100212",
+    "target": "https://openalex.org/I4210090857",
+    "weight": 1,
+    "years": [
+      1987
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I40347166",
+    "target": "https://openalex.org/I5388228",
+    "weight": 1,
+    "years": [
+      1990
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210122954",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      1990
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I185261750",
+    "target": "https://openalex.org/I20089843",
+    "weight": 1,
+    "years": [
+      1993
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210141230",
+    "target": "https://openalex.org/I4210153776",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210141230",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210153776",
+    "target": "https://openalex.org/I97018004",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1324840837",
+    "target": "https://openalex.org/I174306211",
+    "weight": 1,
+    "years": [
+      1995
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1324840837",
+    "target": "https://openalex.org/I50441567",
+    "weight": 1,
+    "years": [
+      1995
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I174306211",
+    "target": "https://openalex.org/I50441567",
+    "weight": 1,
+    "years": [
+      1995
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I36672615",
+    "target": "https://openalex.org/I4210116723",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I36672615",
+    "target": "https://openalex.org/I57206974",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210116723",
+    "target": "https://openalex.org/I57206974",
+    "weight": 1,
+    "years": [
+      1988
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I201448701",
+    "target": "https://openalex.org/I4210164937",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I201448701",
+    "target": "https://openalex.org/I926574661",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210164937",
+    "target": "https://openalex.org/I926574661",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I52357470",
+    "target": "https://openalex.org/I59270414",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I52357470",
+    "target": "https://openalex.org/I87216513",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I59270414",
+    "target": "https://openalex.org/I87216513",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I35440088",
+    "target": "https://openalex.org/I72090969",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210164937",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I125749732",
+    "target": "https://openalex.org/I67031392",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1331384533",
+    "target": "https://openalex.org/I189590672",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I177477856",
+    "target": "https://openalex.org/I93860229",
+    "weight": 1,
+    "years": [
+      1997
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I114772536",
+    "target": "https://openalex.org/I4210109752",
+    "weight": 1,
+    "years": [
+      1985
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I114772536",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      1985
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210109752",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      1985
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1174212",
+    "target": "https://openalex.org/I74973139",
+    "weight": 1,
+    "years": [
+      1976
+    ],
+    "venues": [
+      "ICSE"
+    ],
+    "topics": [
+      "Computer science"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I1341412227",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I1343180700",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I219193219",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I24603500",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I2802236040",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I118347636",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I1343180700",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I219193219",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I24603500",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I2802236040",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I219193219",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I24603500",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I2802236040",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I219193219",
+    "target": "https://openalex.org/I24603500",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I219193219",
+    "target": "https://openalex.org/I2802236040",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I219193219",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I219193219",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I219193219",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I24603500",
+    "target": "https://openalex.org/I2802236040",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I24603500",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I24603500",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I24603500",
+    "target": "https://openalex.org/I86519309",
+    "weight": 2,
+    "years": [
+      2002,
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation",
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2802236040",
+    "target": "https://openalex.org/I4210158342",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2802236040",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I2802236040",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210158342",
+    "target": "https://openalex.org/I73236664",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I4210158342",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I73236664",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1290206253",
+    "target": "https://openalex.org/I24603500",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1290206253",
+    "target": "https://openalex.org/I86519309",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I179647637",
+    "target": "https://openalex.org/I4210165121",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I102322142",
+    "target": "https://openalex.org/I1341412227",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I102322142",
+    "target": "https://openalex.org/I4210096112",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1341412227",
+    "target": "https://openalex.org/I4210096112",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1324840837",
+    "target": "https://openalex.org/I1341412227",
+    "weight": 1,
+    "years": [
+      1999
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1324840837",
+    "target": "https://openalex.org/I170897317",
+    "weight": 2,
+    "years": [
+      2004,
+      2006
+    ],
+    "venues": [
+      "FAST",
+      "NSDI"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I136199984",
+    "target": "https://openalex.org/I63966007",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "USENIX Security"
+    ],
+    "topics": [
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I181653535",
+    "target": "https://openalex.org/I36258959",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "USENIX Security"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1324840837",
+    "target": "https://openalex.org/I36258959",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I170897317",
+    "target": "https://openalex.org/I36258959",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I135458274",
+    "target": "https://openalex.org/I27837315",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "USENIX Security"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I124055696",
+    "target": "https://openalex.org/I241749",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1343180700",
+    "target": "https://openalex.org/I20089843",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I20089843",
+    "target": "https://openalex.org/I95457486",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I1297971548",
+    "target": "https://openalex.org/I1343180700",
+    "weight": 1,
+    "years": [
+      2004
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "source": "https://openalex.org/I165690674",
+    "target": "https://openalex.org/I99418890",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "USENIX Security"
+    ],
+    "topics": [
+      "Security / Privacy"
+    ]
+  }
+]

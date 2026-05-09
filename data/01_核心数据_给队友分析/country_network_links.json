@@ -1,0 +1,606 @@
+[
+  {
+    "source": "GB",
+    "target": "US",
+    "weight": 9,
+    "years": [
+      2001,
+      2003,
+      2005,
+      2006,
+      2007,
+      2008
+    ],
+    "venues": [
+      "ICCV",
+      "ICDM",
+      "ICSE",
+      "OOPSLA",
+      "SIGCOMM",
+      "SIGIR",
+      "SIGMOD",
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Computer network",
+      "Data Mining / Web",
+      "Database / Systems",
+      "Fairness / Evaluation",
+      "Machine Learning Theory",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "DE",
+    "target": "US",
+    "weight": 4,
+    "years": [
+      1989,
+      1998,
+      2001,
+      2007
+    ],
+    "venues": [
+      "ICCV",
+      "IMC",
+      "SIGMOD",
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "IS",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "CA",
+    "target": "US",
+    "weight": 11,
+    "years": [
+      1988,
+      1992,
+      1993,
+      1997,
+      1999,
+      2001,
+      2002,
+      2003,
+      2005
+    ],
+    "venues": [
+      "AAAI",
+      "CCR",
+      "ICCV",
+      "SIGCOMM",
+      "SIGIR",
+      "SIGMOD"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Data Mining / Web",
+      "Database / Systems",
+      "Fairness / Evaluation",
+      "Machine Learning Theory",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "AT",
+    "target": "FR",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "AT",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "FR",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2003
+    ],
+    "venues": [
+      "CCR"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "IL",
+    "target": "US",
+    "weight": 3,
+    "years": [
+      1992,
+      1995,
+      2002
+    ],
+    "venues": [
+      "EMNLP",
+      "ICCV",
+      "SIGMOD"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Database / Systems",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "source": "AU",
+    "target": "ES",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "AU",
+    "target": "IT",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "AU",
+    "target": "KR",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "AU",
+    "target": "US",
+    "weight": 2,
+    "years": [
+      2002,
+      2006
+    ],
+    "venues": [
+      "ACM MobiCom",
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation",
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "ES",
+    "target": "IT",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "ES",
+    "target": "KR",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "ES",
+    "target": "US",
+    "weight": 2,
+    "years": [
+      1995,
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom",
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision",
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "IT",
+    "target": "KR",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "IT",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom"
+    ],
+    "topics": [
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "KR",
+    "target": "US",
+    "weight": 2,
+    "years": [
+      2001,
+      2002
+    ],
+    "venues": [
+      "ACM MobiCom",
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems",
+      "Human-Computer Interaction"
+    ]
+  },
+  {
+    "source": "CN",
+    "target": "DE",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "CA",
+    "target": "KR",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "CA",
+    "target": "IL",
+    "weight": 1,
+    "years": [
+      1992
+    ],
+    "venues": [
+      "SIGMOD"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  },
+  {
+    "source": "CA",
+    "target": "FR",
+    "weight": 1,
+    "years": [
+      2007
+    ],
+    "venues": [
+      "ICML"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "CN",
+    "target": "GB",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "CN",
+    "target": "MX",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "CN",
+    "target": "TW",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "CN",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "GB",
+    "target": "MX",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "GB",
+    "target": "TW",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "MX",
+    "target": "TW",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "MX",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "TW",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "ICDM"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "US",
+    "target": "VG",
+    "weight": 1,
+    "years": [
+      1987
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "ES",
+    "target": "IL",
+    "weight": 1,
+    "years": [
+      1995
+    ],
+    "venues": [
+      "ICCV"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "DE",
+    "target": "GB",
+    "weight": 1,
+    "years": [
+      2001
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Data Mining / Web"
+    ]
+  },
+  {
+    "source": "IN",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "CH",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      1998
+    ],
+    "venues": [
+      "VLDB"
+    ],
+    "topics": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "source": "AU",
+    "target": "GB",
+    "weight": 1,
+    "years": [
+      2006
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Fairness / Evaluation"
+    ]
+  },
+  {
+    "source": "NL",
+    "target": "US",
+    "weight": 1,
+    "years": [
+      2000
+    ],
+    "venues": [
+      "OOPSLA"
+    ],
+    "topics": [
+      "Machine Learning Theory"
+    ]
+  },
+  {
+    "source": "DK",
+    "target": "GB",
+    "weight": 1,
+    "years": [
+      2005
+    ],
+    "venues": [
+      "NSDI"
+    ],
+    "topics": [
+      "Database / Systems"
+    ]
+  }
+]

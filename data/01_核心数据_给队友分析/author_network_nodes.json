@@ -1,0 +1,6652 @@
+[
+  {
+    "id": "https://openalex.org/A5021850355",
+    "name": "Mohammad Al-Fares",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5061784551",
+    "name": "Alexander Loukissas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5050245571",
+    "name": "Amin Vahdat",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5113128745",
+    "name": "S. Katti",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5046388822",
+    "name": "Hariharan Rahul",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5051886730",
+    "name": "Wenjun Hu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5052959289",
+    "name": "Dina Katabi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5075370174",
+    "name": "Muriel Médard",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5062093738",
+    "name": "Jon Crowcroft",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5032889313",
+    "name": "Philip Porras",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5084473174",
+    "name": "Seungwon Shin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5085002486",
+    "name": "Vinod Yegneswaran",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5014210622",
+    "name": "Martin Fong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5004537553",
+    "name": "Mabry Tyson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5058852421",
+    "name": "Guofei Gu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5083710366",
+    "name": "Alan Mislove",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5025010397",
+    "name": "Massimiliano Marcon",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5067688305",
+    "name": "Krishna P. Gummadi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5035918501",
+    "name": "Peter Druschel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5019096316",
+    "name": "Bobby Bhattacharjee",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5088375690",
+    "name": "Daniel Aguayo",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5045388546",
+    "name": "John Bicket",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5043318213",
+    "name": "Sanjit Biswas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5053212055",
+    "name": "Glenn Judd",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5066545991",
+    "name": "Robert Morris",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5100371839",
+    "name": "Lun Li",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5007466464",
+    "name": "David Alderson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5082255432",
+    "name": "Walter Willinger",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5085737537",
+    "name": "John C. Doyle",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5015965031",
+    "name": "Albert Greenberg",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5013594233",
+    "name": "Gísli Hjálmtýsson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5110471094",
+    "name": "David A. Maltz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5113797621",
+    "name": "Andy Myers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5003914268",
+    "name": "Jennifer Rexford",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5113885299",
+    "name": "Geoffrey G. Xie",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5100609883",
+    "name": "Hong Yan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5110065597",
+    "name": "Jibin Zhan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5100323565",
+    "name": "Hui Zhang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5063128417",
+    "name": "Guido Appenzeller",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5064992125",
+    "name": "Isaac Keslassy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5035085176",
+    "name": "Nick McKeown",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5089788947",
+    "name": "Mark Handley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/A5109045523",
+    "name": "Charlie Rohrs",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5110270006",
+    "name": "Neil Spring",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5013518229",
+    "name": "Ratul Mahajan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5046685246",
+    "name": "David Wetherall",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5022674890",
+    "name": "Henri Casanova",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5053847032",
+    "name": "Arnaud Legrand",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5102741546",
+    "name": "Martin Quinson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5071167836",
+    "name": "Kevin Fall",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5112073231",
+    "name": "David D. Clark",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5059955773",
+    "name": "John Wroclawski",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5059317801",
+    "name": "Karen Sollins",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5044888058",
+    "name": "Robert Braden",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5045155287",
+    "name": "Sylvia Ratnasamy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5029526597",
+    "name": "Paul Francis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5068875104",
+    "name": "Richard M. Karp",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5040529929",
+    "name": "Scott Shenker",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 5,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 17
+  },
+  {
+    "id": "https://openalex.org/A5015906195",
+    "name": "Timothy G. Griffin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5078169849",
+    "name": "Gordon Wilfong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5018876909",
+    "name": "Michalis Faloutsos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5017351117",
+    "name": "Petros Faloutsos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5035605036",
+    "name": "Christos Faloutsos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5103066327",
+    "name": "John W. Byers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5079654174",
+    "name": "Michael Luby",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5062318856",
+    "name": "Michael Mitzenmacher",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5053347675",
+    "name": "Ashutosh Rege",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5034547677",
+    "name": "Craig Labovitz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5008785608",
+    "name": "G. Robert Malan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5078067855",
+    "name": "Farnam Jahanian",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5114006278",
+    "name": "Matthew Mathis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5082583256",
+    "name": "Jeffrey Semke",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5054690899",
+    "name": "Jamshid Mahdavi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5089418411",
+    "name": "Teunis J. Ott",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5112001300",
+    "name": "Jitendra Padhye",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5014839465",
+    "name": "V. Firoiu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5036683370",
+    "name": "Don Towsley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5072835559",
+    "name": "David L. Tennenhouse",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5002219113",
+    "name": "Vern Paxson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5040295629",
+    "name": "Leonard Kleinrock",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5110225453",
+    "name": "N. Abramson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5109266879",
+    "name": "Raymond S. Tomlinson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5024147671",
+    "name": "John M. McQuillan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5113534525",
+    "name": "Ira Richer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5110526064",
+    "name": "Eric Rosen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5024244093",
+    "name": "John Nagle",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5002812902",
+    "name": "P. Karn",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5061557294",
+    "name": "Craig Partridge",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5033769347",
+    "name": "Christopher A. Kent",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5071670710",
+    "name": "Jeffrey C. Mogul",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5013716537",
+    "name": "S. E. Deering",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5081712531",
+    "name": "E.M. van Eenennaam",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5079851037",
+    "name": "Paul V. Mockapetris",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5006631037",
+    "name": "Kevin Dunlap",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5010880074",
+    "name": "David R. Boggs",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5053712998",
+    "name": "K. K. Ramakrishnan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5024922935",
+    "name": "Raj Jain",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5041215029",
+    "name": "Van Jacobson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5087136352",
+    "name": "Alan Demers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5090054353",
+    "name": "Srinivasan Keshav",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5047546259",
+    "name": "W.E. Leland",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5043998799",
+    "name": "Murad S. Taqqu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5048144140",
+    "name": "Daniel V. Wilson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5081787254",
+    "name": "Dragomir Radev",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5060225743",
+    "name": "Eduard Hovy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109565051",
+    "name": "Kathleen McKeown",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5053947885",
+    "name": "Kristina Toutanova",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5004921249",
+    "name": "Dan Klein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5046006076",
+    "name": "Christopher D. Manning",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5113437318",
+    "name": "Yoram Singer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5101799605",
+    "name": "Bo Pang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5076876084",
+    "name": "Lillian Lee",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5010223683",
+    "name": "Shivakumar Vaithyanathan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5052227093",
+    "name": "Mahadev Satyanarayanan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5103716579",
+    "name": "Charles E. Perkins",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5077051502",
+    "name": "E.M. Royer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5042833857",
+    "name": "Jeffrey G. Andrews",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5013919815",
+    "name": "Stefano Buzzi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5035102148",
+    "name": "Wan Choi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5033806253",
+    "name": "Stephen V. Hanly",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5078078596",
+    "name": "Angel Lozano",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5109203803",
+    "name": "Anthony C. K. Soong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5027617505",
+    "name": "Jianzhong Charlie Zhang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5038318637",
+    "name": "Rudolf Ahlswede",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5102806438",
+    "name": "Ning Cai",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5100386630",
+    "name": "Shuo Li",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5038760786",
+    "name": "Raymond W. Yeung",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5100615324",
+    "name": "Hongwei Wang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5100665461",
+    "name": "Wenbo He",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5028578280",
+    "name": "Eugene Agichtein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5018230694",
+    "name": "Eric Brill",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5111638399",
+    "name": "Susan Dumais",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/A5032417423",
+    "name": "Jaime Teevan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5043228682",
+    "name": "Eric Horvitz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5014687727",
+    "name": "Thorsten Joachims",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5073592422",
+    "name": "Laura Granka",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5102008962",
+    "name": "Bing Pan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5033199653",
+    "name": "Helene Hembrooke",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5091745105",
+    "name": "Geri Gay",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5027819738",
+    "name": "Peter D. Turney",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5041476585",
+    "name": "Patrick Pantel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5088124063",
+    "name": "Michael J. Cahill",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5110209646",
+    "name": "Uwe Röhm",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5025255598",
+    "name": "Alan Fekete",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5064988079",
+    "name": "Magdalena Bałazińska",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5113516878",
+    "name": "Hari Balakrishnan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5037742794",
+    "name": "Samuel Madden",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5074724644",
+    "name": "Michael Stonebraker",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5087078518",
+    "name": "Peter Buneman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5013015057",
+    "name": "Adriane Chapman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5056138547",
+    "name": "James Cheney",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5100333516",
+    "name": "Lei Chen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5014972038",
+    "name": "M. TAMER ÖZSU",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5081226122",
+    "name": "Vincent Oria",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5108315225",
+    "name": "Rakesh Agrawal",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5077231481",
+    "name": "Jerry Kiernan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5042887703",
+    "name": "Ramakrishnan Srikant",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5111476724",
+    "name": "Yirong Xu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5102019638",
+    "name": "Michael J. Franklin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5043626252",
+    "name": "Joseph M. Hellerstein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5103337641",
+    "name": "Wei Hong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5014062628",
+    "name": "Hakan Hacígümüş",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5079404842",
+    "name": "B. R. Iyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5100369885",
+    "name": "Chen Li",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5010114060",
+    "name": "Sharad Mehrotra",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5035744252",
+    "name": "Wook-Shin Han",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5076975041",
+    "name": "Jack Ng",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5002413906",
+    "name": "Volker Markl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5049051678",
+    "name": "Holger Kache",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5040248448",
+    "name": "Mokhtar Kandil",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5024655283",
+    "name": "Xuan Hong Dang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5013793366",
+    "name": "Kok‐Leong Ong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5003340402",
+    "name": "Jeffrey Scott Vitter",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5100340923",
+    "name": "Min Wang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5051617344",
+    "name": "William W. Cohen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5090729930",
+    "name": "Peter J. Haas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5072397167",
+    "name": "Helen J. Wang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5091767095",
+    "name": "Markus Breunig",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5109848174",
+    "name": "Hans‐Peter Kriegel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5113567130",
+    "name": "Raymond T. Ng",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5021763337",
+    "name": "Jörg Sander",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5061800788",
+    "name": "Venky Harinarayan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5004857788",
+    "name": "Anand Rajaraman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5089065417",
+    "name": "Jeffrey D. Ullman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109054762",
+    "name": "Yue Zhuge",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5055883336",
+    "name": "Héctor García-Molina",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5108371371",
+    "name": "Joachim Hammer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5010857944",
+    "name": "Jennifer Widom",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5042003138",
+    "name": "Vassilis Christophides",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5109033942",
+    "name": "Serge Abiteboul",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5087099692",
+    "name": "Sophie Cluet",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5114010597",
+    "name": "M. Scholl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5011512061",
+    "name": "Michael J. Carey",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 14
+  },
+  {
+    "id": "https://openalex.org/A5055300310",
+    "name": "David J. DeWitt",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 14
+  },
+  {
+    "id": "https://openalex.org/A5090643027",
+    "name": "Michael J. Franklin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5042662939",
+    "name": "Nancy Hall",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5080887870",
+    "name": "Mark L. McAuliffe",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5017678555",
+    "name": "Jeffrey F. Naughton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5003200703",
+    "name": "Daniel T. Schuh",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5109998738",
+    "name": "Marvin Solomon",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5082115376",
+    "name": "C. K. Tan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5080695528",
+    "name": "Odysseas G. Tsatalos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5075263036",
+    "name": "Seth J. White",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5031053305",
+    "name": "Michael J. Zwilling",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/A5033451922",
+    "name": "Tomasz Imieliński",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5113484277",
+    "name": "Arun Swami",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5083725187",
+    "name": "Hamid Pirahesh",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5053020114",
+    "name": "Waqar Hasan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5059918476",
+    "name": "Michael Kifer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5100348852",
+    "name": "Won Kim",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5014143171",
+    "name": "Yehoshua Sagiv",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5041862671",
+    "name": "Goetz Graefe",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5041021512",
+    "name": "Sheldon J. Finkelstein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5113532644",
+    "name": "Georg Lausen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5077202069",
+    "name": "David A. Patterson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5041431830",
+    "name": "Garth A. Gibson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109560331",
+    "name": "Randy H. Katz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5111793964",
+    "name": "Xiaoyuan Su",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5089170562",
+    "name": "Taghi M. Khoshgoftaar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5091272738",
+    "name": "Jure Leskovec",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5087005512",
+    "name": "Rok Sosič",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5018267399",
+    "name": "Martin Ester",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5107791286",
+    "name": "Xiaowei Xu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5101770454",
+    "name": "Ali Rahimi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5012870568",
+    "name": "Benjamin Recht",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5040542771",
+    "name": "Heiko Paulheim",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5111383811",
+    "name": "Natalya F. Noy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5009128820",
+    "name": "Mark A. Musen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5108257764",
+    "name": "Dieter Fox",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/A5084499878",
+    "name": "Wolfram Burgard",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/A5087336025",
+    "name": "Frank Dellaert",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5066710774",
+    "name": "Sebastian Thrun",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/A5109046710",
+    "name": "Armin B. Cremers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5002746486",
+    "name": "Dirk Hähnel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5005730180",
+    "name": "Gerhard Lakemeyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5089014753",
+    "name": "Dirk Schulz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5065898179",
+    "name": "Walter Steiner",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5005380528",
+    "name": "Eugene Charniak",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5018321151",
+    "name": "Michael J. Pazzani",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5021265287",
+    "name": "Jack Muramatsu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5058731655",
+    "name": "Daniel Billsus",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5083321766",
+    "name": "Jean-Charles Régin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5004834783",
+    "name": "Pattie Maes",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5019047051",
+    "name": "Robyn Kozierok",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5076523933",
+    "name": "David G. M. Mitchell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5108339374",
+    "name": "Bart Selman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5025681351",
+    "name": "Hector J. Levesque",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5033089246",
+    "name": "David McAllester",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5058414644",
+    "name": "David Rosenblitt",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5045363082",
+    "name": "Steven Minton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5103902192",
+    "name": "Mark Johnston",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5065380761",
+    "name": "Andrew B. Philips",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5012813959",
+    "name": "Philip Laird",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5113699846",
+    "name": "Peter Cheeseman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5112403725",
+    "name": "James G. Kelly",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5064779799",
+    "name": "Matthew W. Self",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5111931787",
+    "name": "John Stutz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5109351777",
+    "name": "Will Taylor",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5027490225",
+    "name": "Don Freeman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5111965777",
+    "name": "Philip E. Agre",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5011098359",
+    "name": "David Chapman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5054532309",
+    "name": "Michael Georgeff",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5006297510",
+    "name": "Amy Lansky",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5090849321",
+    "name": "David Haussler",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5089723214",
+    "name": "John Canny",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5108208924",
+    "name": "Judea Pearl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5111511141",
+    "name": "John McDermott",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5059955534",
+    "name": "Richard Socher",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5051147845",
+    "name": "Alex Perelygin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5047624579",
+    "name": "Jean Y. Wu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5111979273",
+    "name": "Jason Chuang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5112456378",
+    "name": "Andrew Y. Ng",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5042601761",
+    "name": "Christopher Potts",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5041958651",
+    "name": "Sylvain Gelly",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5091771290",
+    "name": "David Silver",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5100708726",
+    "name": "Yifan Hu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5113974966",
+    "name": "Yehuda Koren",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5074140613",
+    "name": "Chris Volinsky",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5103584056",
+    "name": "Robert M. Bell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5068043486",
+    "name": "Hanghang Tong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5083649006",
+    "name": "Jia-Yu Pan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5033000556",
+    "name": "Dacheng Tao",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5100740143",
+    "name": "Xuelong Li",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5114549594",
+    "name": "Weiming Hu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5078239319",
+    "name": "Stephen J. Maybank",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5080738591",
+    "name": "Xindong Wu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5075969864",
+    "name": "Yün Chi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5063351917",
+    "name": "Haixun Wang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5036357902",
+    "name": "Philip S. Yu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5113699788",
+    "name": "Richard R. Muntz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5110236133",
+    "name": "H. Kargupta",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5109249372",
+    "name": "Souptik Datta",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5057414322",
+    "name": "Q. Wang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5030898251",
+    "name": "Krishnamoorthy Sivakumar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5047709762",
+    "name": "Xifeng Yan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5103750286",
+    "name": "Jiawei Han",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5062191522",
+    "name": "M. Kuramochi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5082384108",
+    "name": "George Karypis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5081925956",
+    "name": "Stephen Robertson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5109132337",
+    "name": "C. J. van Rijsbergen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5080433714",
+    "name": "Martin Porter",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109788435",
+    "name": "M. E. Maron",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5114255343",
+    "name": "William S. Cooper",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5023194236",
+    "name": "Padima Das-Gupta",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5065593201",
+    "name": "Jeffrey Katzer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5028019543",
+    "name": "Ellen M. Voorhees",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5057838625",
+    "name": "Joel L. Fagan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5034831671",
+    "name": "Alan Baddeley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5008494249",
+    "name": "G. W. Furnas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5001762135",
+    "name": "S. Deerwester",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5037108257",
+    "name": "T. K. Landauer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5024899657",
+    "name": "R. A. Harshman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5033110660",
+    "name": "L. A. Streeter",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5002754351",
+    "name": "K. E. Lochbaum",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5025640277",
+    "name": "D. Harman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5039163522",
+    "name": "Annelise Mark Pejtersen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5004299489",
+    "name": "Richard K. Belew",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5061439330",
+    "name": "Howard R. Turtle",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5105659698",
+    "name": "W. Bruce Croft",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 5,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5016239835",
+    "name": "Douglass R. Cutting",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5028448267",
+    "name": "David R. Karger",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5074139750",
+    "name": "Jan Pedersen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5023706141",
+    "name": "John W. Tukey",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5020081385",
+    "name": "David Lewis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5068671901",
+    "name": "William A. Gale",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "S. E. Robertson",
+    "name": "S. E. Robertson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "S. Walker",
+    "name": "S. Walker",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5053277619",
+    "name": "James P. Callan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5101547435",
+    "name": "Zhihong Lu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5086991902",
+    "name": "Amit Singhal",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5003816022",
+    "name": "Chris Buckley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5052357764",
+    "name": "Mandar Mitra",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5108487796",
+    "name": "Jinxi Xu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5080625665",
+    "name": "Jay Ponte",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5110420772",
+    "name": "Krishna Bharat",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5003641345",
+    "name": "Monika Henzinger",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5034070218",
+    "name": "James Allan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5012259899",
+    "name": "Ron Papka",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5040085648",
+    "name": "Victor Lavrenko",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5109861718",
+    "name": "Jaime Carbonell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5091782476",
+    "name": "Jade Goldstein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5109877919",
+    "name": "Jonathan L. Herlocker",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5037387341",
+    "name": "Joseph A. Konstan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5033856926",
+    "name": "Al Borchers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5028357447",
+    "name": "John Riedl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5060963011",
+    "name": "Adam Berger",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5060219657",
+    "name": "John Lafferty",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5045413165",
+    "name": "Thomas Hofmann",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5014374477",
+    "name": "Kalervo Järvelin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5086854307",
+    "name": "Jaana Kekäläinen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5028518494",
+    "name": "ChengXiang Zhai",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5096893732",
+    "name": "Laptev",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5054396186",
+    "name": "Tony Lindeberg",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "Alexei A. Efros",
+    "name": "Alexei A. Efros",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Berg",
+    "name": "Berg",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Mori",
+    "name": "Mori",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Malik",
+    "name": "Malik",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5069981867",
+    "name": "Sivic",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5063509242",
+    "name": "Zisserman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5111873170",
+    "name": "Brown",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5105286733",
+    "name": "Lowe",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5025398783",
+    "name": "Josef Šivic",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5053907649",
+    "name": "Bryan Russell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5077436220",
+    "name": "Alexei A. Efros",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5057678172",
+    "name": "Andrew Zisserman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5074429265",
+    "name": "William T. Freeman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5012765543",
+    "name": "Kristen Grauman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5029105520",
+    "name": "Trevor Darrell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5102905134",
+    "name": "Miri Blank",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5052815414",
+    "name": "Lena Gorelick",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5024777042",
+    "name": "Eli Shechtman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5112891094",
+    "name": "M. Irani",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5101453970",
+    "name": "Ronen Basri",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5101961834",
+    "name": "David Martín",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5044978076",
+    "name": "Charless C. Fowlkes",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5058310043",
+    "name": "Doron Tal",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5001594573",
+    "name": "Jitendra Malik",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5018609918",
+    "name": "Serge Belongie",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5004886296",
+    "name": "Jan Puzicha",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5006830648",
+    "name": "Michael Kass",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5007629193",
+    "name": "Andrew Witkin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5034397232",
+    "name": "Demetri Terzopoulos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5077052205",
+    "name": "Michael J. Swain",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5002822166",
+    "name": "D.H. Ballard",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5021989698",
+    "name": "Edward H. Adelson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5065396778",
+    "name": "Michael J. Black",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5103029420",
+    "name": "P. Anandan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5042310818",
+    "name": "Paul Viola",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5020216442",
+    "name": "Richard Hartley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5079878449",
+    "name": "Carlo Tomasi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5075120422",
+    "name": "Roberto Manduchi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5061085058",
+    "name": "Yossi Rubner",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5065368881",
+    "name": "Leonidas Guibas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5110227684",
+    "name": "Shaoyang Zhu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5074864849",
+    "name": "T.S. Lee",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5086706224",
+    "name": "Alan Yuille",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5058849717",
+    "name": "Zhengyou Zhang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5111929615",
+    "name": "Thomas Leung",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5055202003",
+    "name": "David Lowe",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5028352869",
+    "name": "Yuri Boykov",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5020352214",
+    "name": "Olga Veksler",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5042850991",
+    "name": "Ramin Zabih",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5103158964",
+    "name": "Vicent Caselles",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5091366774",
+    "name": "Ron Kimmel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5025218580",
+    "name": "Guillermo Sapiro",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5012056328",
+    "name": "Y. Lamdan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5030975599",
+    "name": "Haim J. Wolfson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5081323769",
+    "name": "Nilesh Dalvi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5048204602",
+    "name": "Dan Suciu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5022543825",
+    "name": "Gurmeet Singh Manku",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5112649653",
+    "name": "Rajeev Motwani",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5034699810",
+    "name": "Jayant Madhavan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5108676493",
+    "name": "Philip A. Bernstein",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5075756237",
+    "name": "Erhard Rahm",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5100613677",
+    "name": "Anil K. Jain",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5028996052",
+    "name": "M. Narasimha Murty",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5039987576",
+    "name": "Patrick J. Flynn",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5058712681",
+    "name": "Peter Boncz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5030666511",
+    "name": "Stefan Manegold",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5108572275",
+    "name": "Martin Kersten",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5089179239",
+    "name": "Roger Weber",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5110166699",
+    "name": "Hans‐Jörg Schek",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5090088634",
+    "name": "Stephen Blott",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5038037154",
+    "name": "Surajit Chaudhuri",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5063257827",
+    "name": "Vivek Narasayya",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5109249977",
+    "name": "Alon Y. Levy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5038089398",
+    "name": "Joann J. Ordille",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5083688475",
+    "name": "David Konopnicki",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5047193562",
+    "name": "Oded Shmueli",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5084870386",
+    "name": "Yannis Ioannidis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5068995132",
+    "name": "B. R. Badrinath",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5066958777",
+    "name": "Axel Mönkeberg",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5088135366",
+    "name": "Gerhard Weikum",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5045738980",
+    "name": "Umeshwar Dayal",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109925930",
+    "name": "Meichun Hsu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5072093932",
+    "name": "Rivka Ladin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5048332811",
+    "name": "Stefano Ceri",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5001242671",
+    "name": "Kurt Rothermel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5112986786",
+    "name": "C. Mohan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5077311941",
+    "name": "Dina Bitton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5106823925",
+    "name": "Jim Gray",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5020449921",
+    "name": "Timos Sellis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5113488700",
+    "name": "Nick Roussopoulos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5062064598",
+    "name": "Joel E. Richardson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5047853212",
+    "name": "Eugene J. Shekita",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5112288279",
+    "name": "François Bancilhon",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5100348843",
+    "name": "Won Bae Kim",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5079883897",
+    "name": "Henry F. Korth",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5109918726",
+    "name": "Carlos Pacheco",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5041084431",
+    "name": "Shuvendu K. Lahiri",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5032068969",
+    "name": "Michael D. Ernst",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5114248503",
+    "name": "Thomas Ball",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5038565477",
+    "name": "John Anvik",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5033307955",
+    "name": "Lyndon Hiew",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5084524791",
+    "name": "Gail C. Murphy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5112519260",
+    "name": "James H. Andrews",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5078533117",
+    "name": "Lionel Briand",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5007057846",
+    "name": "Yvan Labiche",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "Thomas Zimmermann",
+    "name": "Thomas Zimmermann",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Peter Weißgerber",
+    "name": "Peter Weißgerber",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Stephan Diehl",
+    "name": "Stephan Diehl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Andreas Zeller",
+    "name": "Andreas Zeller",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5079788579",
+    "name": "Davor Čubranić",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5091372985",
+    "name": "Jonathan Aldrich",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5070604627",
+    "name": "Craig Chambers",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5011262764",
+    "name": "David Notkin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5019306962",
+    "name": "Filippo Ricca",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5025438762",
+    "name": "Paolo Tonella",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5067199285",
+    "name": "Audris Mockus",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5003041727",
+    "name": "R.T. Fielding",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5077303778",
+    "name": "Jin Herbsleb",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5038719167",
+    "name": "J.C. Corbett",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5086757331",
+    "name": "Matthew B. Dwyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5018982940",
+    "name": "John Hatcliff",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5012400933",
+    "name": "S. Laubach",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5053134485",
+    "name": "Corina S. Păsăreanu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5113894576",
+    "name": "Robby",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5110210111",
+    "name": "Hongjun Zheng",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5030462647",
+    "name": "Peri Tarr",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5004884291",
+    "name": "Harold Ossher",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5112195527",
+    "name": "William Harrison",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5023250996",
+    "name": "Stanley M. Sutton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "Peyman Oreizy",
+    "name": "Peyman Oreizy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "Nenad Medvidovic",
+    "name": "Nenad Medvidovic",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "Richard N. Taylor",
+    "name": "Richard N. Taylor",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5084432062",
+    "name": "Antonio Carzaniga",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5022068732",
+    "name": "Gian Pietro Picco",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5075685499",
+    "name": "Giovanni Vigna",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5108280938",
+    "name": "Jackson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5028518506",
+    "name": "Zave",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5108641375",
+    "name": "Robert J. Allen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5108485872",
+    "name": "David Garlan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5060861082",
+    "name": "Bashar Nuseibeh",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5101715775",
+    "name": "Jeff Kramer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5028579580",
+    "name": "Anthony Finkelsteiin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5047104641",
+    "name": "David S. Rosenblum",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5103837183",
+    "name": "Robert Balzer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5110162124",
+    "name": "Dewayne E. Perry",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5088778612",
+    "name": "David Harel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5041555599",
+    "name": "H. Lachover",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5074630104",
+    "name": "A. Naamad",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5109219790",
+    "name": "Amir Pnueli",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5070150495",
+    "name": "M. Politi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5007087016",
+    "name": "R. W. Sherman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5060396329",
+    "name": "a. Shtul-Trauring",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5110846236",
+    "name": "M. M. Lehman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5052855534",
+    "name": "Leon J. Osterweil",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5039863061",
+    "name": "Mary Shaw",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5108918729",
+    "name": "Paul Clements",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5081601500",
+    "name": "David Lorge Parnas",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5037098355",
+    "name": "David M. Weiss",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5113694872",
+    "name": "Sol Greenspan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5052098157",
+    "name": "John Mylopoulos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5111947405",
+    "name": "Alex Borgida",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5021587962",
+    "name": "Mark Weiser",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5000530309",
+    "name": "Walter F. Tichy",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5111889680",
+    "name": "Wm. A. Wulf",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5011579781",
+    "name": "Ralph L. London",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5082750318",
+    "name": "Marc Rochkind",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5026496503",
+    "name": "David Brooks",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5002015508",
+    "name": "Margaret Martonosi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5029226653",
+    "name": "Andy Georges",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5020837300",
+    "name": "Dries Buytaert",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5033119975",
+    "name": "Lieven Eeckhout",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5021388582",
+    "name": "Stephen M. Blackburn",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5079422578",
+    "name": "Robin Garner",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5006160275",
+    "name": "Chris Hoffmann",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5069477167",
+    "name": "Asjad M. Khang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5087054368",
+    "name": "Kathryn S. McKinley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 21
+  },
+  {
+    "id": "https://openalex.org/A5083096385",
+    "name": "Rotem Bentzur",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5059100099",
+    "name": "Amer Diwan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5002124760",
+    "name": "Daniel Feinberg",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5003071026",
+    "name": "Daniel Frampton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5004167701",
+    "name": "Samuel Z. Guyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5079080602",
+    "name": "Martin Hirzel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5027609697",
+    "name": "Antony L. Hosking",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5057619267",
+    "name": "Maria Jump",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5101497617",
+    "name": "Han Lee",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5015046489",
+    "name": "J. Eliot B. Moss",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5019801056",
+    "name": "Aashish Phansalkar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5079085280",
+    "name": "Darko Stefanović",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5028386928",
+    "name": "Thomas VanDrunen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5016276056",
+    "name": "Daniel von Dincklage",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5006874689",
+    "name": "Ben Wiedermann",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 19
+  },
+  {
+    "id": "https://openalex.org/A5089465568",
+    "name": "Yili Zheng",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5108706329",
+    "name": "Amir Kamil",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5038513998",
+    "name": "Michael Driscoll",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5113595336",
+    "name": "Hongzhang Shan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5091741596",
+    "name": "Katherine Yelick",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5031071954",
+    "name": "Gilad Bracha",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5001530538",
+    "name": "David Ungar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5018504427",
+    "name": "Tim Harris",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5017124490",
+    "name": "Keir Fraser",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/A5053730492",
+    "name": "Emery D. Berger",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5113516138",
+    "name": "Benjamin G. Zorn",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5048103294",
+    "name": "Jair Cervantes",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5022867602",
+    "name": "Farid García‐Lamont",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5020368425",
+    "name": "Lisbeth Rodríguez-Mazahua",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5065258336",
+    "name": "Asdrúbal López‐Chau",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5026190550",
+    "name": "Matthew Arnold",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5111447845",
+    "name": "Stephen J. Fink",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5006981734",
+    "name": "David Grove",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5048793009",
+    "name": "Michael Hind",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5103562228",
+    "name": "Peter F. Sweeney",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5021246811",
+    "name": "Bowen Alpern",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5008824666",
+    "name": "C. R. Attanasio",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5016454866",
+    "name": "Anthony Cocchi",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5042971413",
+    "name": "Derek Lieber",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5026369679",
+    "name": "Stephen Smith",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5113488252",
+    "name": "Ton Ngo",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5060234215",
+    "name": "John Barton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5054033337",
+    "name": "Susan Flynn Hummel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5037660080",
+    "name": "Janice C. Sheperd",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5026599108",
+    "name": "Mark Mergen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5057001769",
+    "name": "David G. Clarke",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5012329093",
+    "name": "John Potter",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5078368556",
+    "name": "James Noble",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5053997783",
+    "name": "Greg DeFouw",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5065345794",
+    "name": "Jeffrey A. Dean",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5081457786",
+    "name": "Pattie Maes",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/A5030876540",
+    "name": "Randall B. Smith",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5053422735",
+    "name": "Kimberly Keeton",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5045411074",
+    "name": "Cipriano Santos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5071340047",
+    "name": "Dirk Beyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5010523419",
+    "name": "Jeffrey S. Chase",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5085623723",
+    "name": "John Wilkes",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5055793906",
+    "name": "Brendan Cully",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5016327606",
+    "name": "Geoffrey Lefebvre",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5090981855",
+    "name": "Dutch T. Meyer",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5112785267",
+    "name": "Mike Feeley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5108203500",
+    "name": "N.C. Hutchinson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5002059431",
+    "name": "Andrew Warfield",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 12
+  },
+  {
+    "id": "https://openalex.org/A5078041729",
+    "name": "Stephen McCamant",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5064972235",
+    "name": "Greg Morrisett",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5110883095",
+    "name": "Russel H. Patterson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5047373225",
+    "name": "Stephen Manley",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5052235324",
+    "name": "Mike Federwisch",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5077260436",
+    "name": "Dave Hitz",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5071473913",
+    "name": "Steven Kleiman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5050556689",
+    "name": "Shane Owara",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5036529548",
+    "name": "Rodrigo Fonseca",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5053471164",
+    "name": "George Porter",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5041920173",
+    "name": "Ion Stoica",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/A5020860412",
+    "name": "David Moore",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5081366293",
+    "name": "Geoffrey M. Voelker",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5048394730",
+    "name": "Stefan Savage",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5037258750",
+    "name": "Peter Corbett",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5067181956",
+    "name": "Bob English",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5043170073",
+    "name": "Atul Goel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5045814999",
+    "name": "Tomislav Grcanac",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5035738883",
+    "name": "Steven L. Kleiman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5051038956",
+    "name": "James Leong",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5023911799",
+    "name": "Sunitha Sankar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/A5072272023",
+    "name": "Patrick Reynolds",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5103697281",
+    "name": "Charles Killian",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5113681033",
+    "name": "Janet L. Wiener",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5063179800",
+    "name": "Mehul A. Shah",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5085361000",
+    "name": "Niels Provos",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5102904489",
+    "name": "M. Friedl",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5075344172",
+    "name": "Peter Honeyman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5041677248",
+    "name": "Eric Anderson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5014606105",
+    "name": "Michael Hobbs",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5049084413",
+    "name": "Susan Spence",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5101643026",
+    "name": "Mustafa Uysal",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5083350972",
+    "name": "Alistair Veitch",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/A5041925933",
+    "name": "Christopher J. Clark",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5087961508",
+    "name": "Steven Hand",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5007875302",
+    "name": "Jacob Gorm Hansen",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5056252268",
+    "name": "Eric Jul",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5076997161",
+    "name": "Christian Limpach",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/A5071356177",
+    "name": "Ian Pratt",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "Matthew Caesar",
+    "name": "Matthew Caesar",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "Donald Caldwell",
+    "name": "Donald Caldwell",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "Aman Shaikh",
+    "name": "Aman Shaikh",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5019904083",
+    "name": "Nimrod Megiddo",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5063718511",
+    "name": "Dharmendra S. Modha",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5046455414",
+    "name": "Andy Bavier",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5075131415",
+    "name": "Mic Bowman",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5038481659",
+    "name": "Brent Chun",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5056732574",
+    "name": "David Culler",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 12
+  },
+  {
+    "id": "https://openalex.org/A5034676050",
+    "name": "Scott Karlin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5091253303",
+    "name": "Steve Muir",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5002436680",
+    "name": "Larry Peterson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5072227627",
+    "name": "Timothy Roscoe",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5014246402",
+    "name": "Tammo Spalink",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5077467555",
+    "name": "Mike Wawrzoniak",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5060306684",
+    "name": "Philip Levis",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5024822400",
+    "name": "Neil Patel",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/A5074119993",
+    "name": "Roger Dingledine",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5023855268",
+    "name": "Nick Mathewson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5028116351",
+    "name": "Paul Syverson",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/A5072667879",
+    "name": "Frank Schmuck",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5034659138",
+    "name": "Roger Haskin",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5085004039",
+    "name": "Crispin Cowan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5081442372",
+    "name": "Calton Pu",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5067964723",
+    "name": "Dave Maier",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5055643645",
+    "name": "Heather Hintony",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5011528508",
+    "name": "Jonathan Walpole",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5053649758",
+    "name": "Peat Bakke",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5031539433",
+    "name": "Steve Beattie",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5054404824",
+    "name": "Aaron Grier",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5108603116",
+    "name": "Perry Wagle",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5115603610",
+    "name": "Qian Zhang",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/A5057164658",
+    "name": "Sean Quinlan",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/A5015861512",
+    "name": "Sean Dorward",
+    "node_type": "author",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  }
+]

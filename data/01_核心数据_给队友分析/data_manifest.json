@@ -1,0 +1,48 @@
+{
+  "generated_files": [
+    "announcement_year_stats.csv",
+    "award_timeline.csv",
+    "citation_trajectories.csv",
+    "citing_breadth_metrics.csv",
+    "country_stats.csv",
+    "institution_stats.csv",
+    "papers.csv",
+    "papers_enriched.csv",
+    "publication_year_stats.csv",
+    "recognition_lag_distribution.csv",
+    "topic_stats.csv",
+    "topic_year_stats.csv",
+    "venue_area_stats.csv",
+    "venue_stats.csv",
+    "venue_topic_stats.csv",
+    "venue_year_stats.csv",
+    "author_network_links.json",
+    "author_network_nodes.json",
+    "country_network_links.json",
+    "country_network_nodes.json",
+    "data_manifest.json",
+    "institution_network_links.json",
+    "institution_network_nodes.json",
+    "papers.json",
+    "papers_enriched.json"
+  ],
+  "primary_files": {
+    "paper_table": "papers_enriched.json",
+    "paper_table_basic": "papers.json",
+    "citing_breadth": "citing_breadth_metrics.csv",
+    "timeline": "award_timeline.csv",
+    "venues": "venue_stats.csv",
+    "topics": "topic_stats.csv",
+    "topic_year": "topic_year_stats.csv",
+    "citations": "citation_trajectories.csv",
+    "institutions": "institution_stats.csv",
+    "networks": [
+      "institution_network_nodes.json",
+      "institution_network_links.json",
+      "author_network_nodes.json",
+      "author_network_links.json",
+      "country_network_nodes.json",
+      "country_network_links.json"
+    ]
+  }
+}

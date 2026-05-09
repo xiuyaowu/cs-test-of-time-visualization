@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "https://openalex.org/I36258959",
+    "name": "University of California, San Diego",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I201448701",
+    "name": "University of Washington",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 7,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I241749",
+    "name": "University of Cambridge",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I1298353152",
+    "name": "SRI International",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I4210099336",
+    "name": "Menlo School",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I91045830",
+    "name": "Texas A&M University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210121786",
+    "name": "Max Planck Institute for Software Systems",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I66946132",
+    "name": "University of Maryland, College Park",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I63966007",
+    "name": "Massachusetts Institute of Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 11,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/I74973139",
+    "name": "Carnegie Mellon University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 15,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 11
+  },
+  {
+    "id": "https://openalex.org/I122411786",
+    "name": "California Institute of Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I1283103587",
+    "name": "AT&T (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 5,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/I123185442",
+    "name": "Reykjavík University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I20089843",
+    "name": "Princeton University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I35364215",
+    "name": "Naval Postgraduate School",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I97018004",
+    "name": "Stanford University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 14,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/I1297971548",
+    "name": "International Computer Science Institute",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 7,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/I26653445",
+    "name": "Tellabs (Canada)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1331384533",
+    "name": "University of Hawaii System",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I1294671590",
+    "name": "Centre National de la Recherche Scientifique",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I899635006",
+    "name": "Université Grenoble Alpes",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I4210104430",
+    "name": "Laboratoire d'Informatique de Grenoble",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I4210099593",
+    "name": "Computer Algorithms for Medicine",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I4210121838",
+    "name": "Laboratoire Lorrain de Recherche en Informatique et ses Applications",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I1343180700",
+    "name": "Intel (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 7,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 15
+  },
+  {
+    "id": "https://openalex.org/I2801204180",
+    "name": "Marina Del Rey Hospital",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I1174212",
+    "name": "University of Southern California",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/I185261750",
+    "name": "University of Toronto",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 6,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I95457486",
+    "name": "University of California, Berkeley",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 17,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 12
+  },
+  {
+    "id": "https://openalex.org/I27837315",
+    "name": "University of Michigan–Ann Arbor",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I35765314",
+    "name": "Pittsburgh Supercomputing Center",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I176714629",
+    "name": "Bell (Canada)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I3039010084",
+    "name": "Tamedia (Switzerland)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I148283060",
+    "name": "Lawrence Berkeley National Laboratory",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I2799798094",
+    "name": "UCLA Health",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I117965899",
+    "name": "University of Hawaiʻi at Mānoa",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210090841",
+    "name": "Honolulu University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I2800306684",
+    "name": "Acton Institute",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I169540460",
+    "name": "The Aerospace Corporation",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1292974536",
+    "name": "Ford Motor Company (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I2801851002",
+    "name": "Harvard University Press",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I4210162662",
+    "name": "Digital Equipment (Germany)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I4210122731",
+    "name": "Digital Wave (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I173498003",
+    "name": "Palo Alto Research Center",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I78577930",
+    "name": "Columbia University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I197251160",
+    "name": "Hebrew University of Jerusalem",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I205783295",
+    "name": "Cornell University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 8,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I4210085935",
+    "name": "IBM Research - Almaden",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 8,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 9
+  },
+  {
+    "id": "https://openalex.org/I1342911587",
+    "name": "Oracle (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I154570441",
+    "name": "University of California, Santa Barbara",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I86519309",
+    "name": "The University of Texas at Austin",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 17
+  },
+  {
+    "id": "https://openalex.org/I186995768",
+    "name": "Università degli studi di Cassino e del Lazio Meridionale",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I4210099310",
+    "name": "Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I157485424",
+    "name": "Korea Advanced Institute of Science and Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I99043593",
+    "name": "Macquarie University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I170486558",
+    "name": "Pompeu Fabra University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I4210146936",
+    "name": "Huawei Technologies (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I4210101778",
+    "name": "Samsung (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I20121455",
+    "name": "Bielefeld University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I177725633",
+    "name": "Chinese University of Hong Kong",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I114395901",
+    "name": "University of Nebraska–Lincoln",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I1290206253",
+    "name": "Microsoft (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 5,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 7
+  },
+  {
+    "id": "https://openalex.org/I4210164937",
+    "name": "Microsoft Research (United Kingdom)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 4,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I4210110987",
+    "name": "IIT@MIT",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I1743320",
+    "name": "Palo Alto University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210159778",
+    "name": "National Research Council Canada",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210134091",
+    "name": "Yahoo (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I129604602",
+    "name": "University of Sydney",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I98677209",
+    "name": "University of Edinburgh",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I151746483",
+    "name": "University of Waterloo",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I118118575",
+    "name": "New Jersey Institute of Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I134446601",
+    "name": "Berkeley College",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I204250578",
+    "name": "University of California, Irvine",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I1341412227",
+    "name": "IBM (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 8,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 21
+  },
+  {
+    "id": "https://openalex.org/I4210148712",
+    "name": "Silicon Valley University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/I31419693",
+    "name": "Kyungpook National University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I4210113654",
+    "name": "IBM (Canada)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I3005327000",
+    "name": "Institute for Infocomm Research",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I170897317",
+    "name": "Duke University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I141945490",
+    "name": "University of British Columbia",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 6,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I1326498283",
+    "name": "Institut national de recherche en informatique et en automatique",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I124158823",
+    "name": "Conservatoire National des Arts et Métiers",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I135310074",
+    "name": "University of Wisconsin–Madison",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I102322142",
+    "name": "Rutgers, The State University of New Jersey",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 3,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I91950636",
+    "name": "Unisys (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I188538660",
+    "name": "University of Colorado Boulder",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I4210103385",
+    "name": "Tandem Diabetes Care (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I59553526",
+    "name": "Stony Brook University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I177802217",
+    "name": "University of Mannheim",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I63772739",
+    "name": "Florida Atlantic University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I8204097",
+    "name": "Ludwig-Maximilians-Universität München",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I175594653",
+    "name": "John Brown University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I4210140791",
+    "name": "Irvine University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I19894307",
+    "name": "Université de Montpellier",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210101743",
+    "name": "Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I18014758",
+    "name": "Simon Fraser University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I72090969",
+    "name": "Nokia (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 7,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 5
+  },
+  {
+    "id": "https://openalex.org/I1280536761",
+    "name": "Ames Research Center",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1297127228",
+    "name": "Space Telescope Science Institute",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I131651094",
+    "name": "University of Denver",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I58610484",
+    "name": "Seattle University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I154425047",
+    "name": "University of Alberta",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1325784139",
+    "name": "Yahoo (United Kingdom)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I98259816",
+    "name": "Birkbeck, University of London",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I4210112150",
+    "name": "Institute of Automation",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I84653119",
+    "name": "Academia Sinica",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I4210160447",
+    "name": "Universidad de Londres",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I111236770",
+    "name": "University of Vermont",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 4
+  },
+  {
+    "id": "https://openalex.org/I161318765",
+    "name": "University of California, Los Angeles",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210114115",
+    "name": "IBM Research - Thomas J. Watson Research Center",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I79272384",
+    "name": "University of Maryland, Baltimore County",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I72951846",
+    "name": "Washington State University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I157725225",
+    "name": "University of Illinois Urbana-Champaign",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I130238516",
+    "name": "University of Minnesota",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I70983195",
+    "name": "Syracuse University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I52099693",
+    "name": "University of York",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I40347166",
+    "name": "University of Chicago",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I125749732",
+    "name": "Western University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I4210109390",
+    "name": "National Center for Biotechnology Information",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I24603500",
+    "name": "University of Massachusetts Amherst",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 8,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 10
+  },
+  {
+    "id": "https://openalex.org/I1321296531",
+    "name": "National Institute of Standards and Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "Tampere University",
+    "name": "Tampere University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I2802123492",
+    "name": "Oxford Research Group",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I40120149",
+    "name": "University of Oxford",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 3
+  },
+  {
+    "id": "https://openalex.org/I53964585",
+    "name": "Weizmann Institute of Science",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I4210090857",
+    "name": "Schlumberger (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I154100212",
+    "name": "Schlumberger (British Virgin Islands)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I5388228",
+    "name": "University of Rochester",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210122954",
+    "name": "MIT Lincoln Laboratory",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210141230",
+    "name": "Apple (Germany)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210153776",
+    "name": "Apple (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I136199984",
+    "name": "Harvard University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I50441567",
+    "name": "Universitat de les Illes Balears",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I174306211",
+    "name": "Technion – Israel Institute of Technology",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I1324840837",
+    "name": "Hewlett-Packard (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 5,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 6
+  },
+  {
+    "id": "https://openalex.org/I36672615",
+    "name": "Courant Institute of Mathematical Sciences",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210116723",
+    "name": "Robotics Research (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I57206974",
+    "name": "New York University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I926574661",
+    "name": "Leipzig University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I87216513",
+    "name": "Michigan State University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I59270414",
+    "name": "Indian Institute of Science Bangalore",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I52357470",
+    "name": "The Ohio State University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I1341640284",
+    "name": "Centrum Wiskunde & Informatica",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I67031392",
+    "name": "Carleton University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210097842",
+    "name": "Istituto Centrale per la Ricerca Scientifica e Tecnologica Applicata al Mare",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I189590672",
+    "name": "Kansas State University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I93860229",
+    "name": "Politecnico di Milano",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I177477856",
+    "name": "Polytechnic University of Turin",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I47508984",
+    "name": "Imperial College London",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 2,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I114772536",
+    "name": "Software Engineering Institute",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I4210109752",
+    "name": "Research International (United States)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I2801227569",
+    "name": "Ghent University Hospital",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I118347636",
+    "name": "Australian National University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I2802236040",
+    "name": "University of Colorado System",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I219193219",
+    "name": "Purdue University West Lafayette",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I4210158342",
+    "name": "Intel (United Kingdom)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I73236664",
+    "name": "Wheaton College - Illinois",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 8
+  },
+  {
+    "id": "https://openalex.org/I179647637",
+    "name": "Universidad Autónoma del Estado de México",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210165121",
+    "name": "Instituto Tecnologico de Orizaba",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I4210096112",
+    "name": "Rutgers Sexual and Reproductive Health and Rights",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 2
+  },
+  {
+    "id": "https://openalex.org/I13469542",
+    "name": "Vrije Universiteit Brussel",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I181653535",
+    "name": "San Diego Supercomputer Center",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I135458274",
+    "name": "Citigroup",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I124055696",
+    "name": "University of Copenhagen",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1288214837",
+    "name": "United States Naval Research Laboratory",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  },
+  {
+    "id": "https://openalex.org/I165690674",
+    "name": "Oregon Health & Science University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I99418890",
+    "name": "Northwestern Polytechnic University",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 1
+  },
+  {
+    "id": "https://openalex.org/I1322087612",
+    "name": "Alcatel Lucent (Germany)",
+    "node_type": "institution",
+    "country": "",
+    "paper_count": 1,
+    "best_paper_count": 0,
+    "group": "",
+    "centrality": 0
+  }
+]
